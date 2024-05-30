@@ -11,10 +11,20 @@ Integration with cloud-based services for large-scale image processing.
 
 
 Requirements
+
+
 Python 3.x
+
+
 TensorFlow
+
+
 Keras
+
+
 OpenCV
+
+
 NumPy
 
 
